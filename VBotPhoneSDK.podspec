@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'VBotPhoneSDK'
-  s.version      = '1.0.2'
+  s.version      = '1.0.3'
   s.authors      = "VBotDevTeam"
   s.summary      = "VBotPhoneSDK"
   s.description  = "VBot Phone SDK for iOS."

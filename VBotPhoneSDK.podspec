@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://vbot.vn"
   s.license      = 'LICENSE.txt'
   s.xcconfig = { "VBotSIP_SDK_VERSION" => s.version }
-  s.source       = { :http => "https://github.com/VBotDevTeam/VBotPhone.git }
+  s.source       = { :http => "https://github.com/VBotDevTeam/VBotPhone.git" }
   s.documentation_url = "https://vbot.vn"
   s.platform = :ios
   s.ios.deployment_target = '13.0'

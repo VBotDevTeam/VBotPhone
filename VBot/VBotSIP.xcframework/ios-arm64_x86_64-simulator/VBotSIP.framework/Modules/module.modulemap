@@ -1,0 +1,6 @@
+framework module VBotSIP {
+  umbrella header "VBotSIP.h"
+  export *
+
+  module * { export * }
+}
